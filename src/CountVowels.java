@@ -1,9 +1,9 @@
-import java.util.Scanner;
-
-
 /**
 * @author hamc17
+* Program counts the number of vowels in a string, based on user's preference.
 */
+
+import java.util.Scanner;
 
 public class CountVowels {
 

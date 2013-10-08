@@ -1,9 +1,10 @@
+/**
+* @author hamc17
+* Program checks to see if some inputted text is a palindrome.
+*/
+
 import java.util.Scanner;
 
-/**
- *
- * @author hamc17
- */
 public class Palindrome {
 
     public static void main(String[] args) {

@@ -1,7 +1,9 @@
-import java.util.Scanner;
 /**
 * @author hamc17
+* Program reverses inputted text.
 */
+
+import java.util.Scanner;
 
 public class ReverseString {
   

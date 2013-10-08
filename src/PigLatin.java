@@ -1,8 +1,9 @@
-import java.util.Scanner;
-
 /**
 * @author hamc17
+* Program takes in text and prints it out using the rules of Pig Latin.
 */
+
+import java.util.Scanner;
 
 public class PigLatin {
 
